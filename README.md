@@ -1,0 +1,2 @@
+# INFO1601L6-and-INFO1601L6-5
+Info 1601 Lab 6 &amp; 6.5.
